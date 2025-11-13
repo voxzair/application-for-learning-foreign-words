@@ -1,0 +1,1 @@
+# application for learning foreign words_UI
