@@ -26,9 +26,6 @@ WordMaster — WPF-приложение для изучения иностран
 * `WordMaster.Domain` — классы сущностей, бизнес-логика (интерфейсы сервисов)
 * `WordMaster.Data` — реализация доступа к данным 
 * `WordMaster.UI` — WPF приложение, ViewModels, XAML-формы
-
-Дополнительно при желании:
-
 * `WordMaster.Tests` — модульные тесты
 * `WordMaster.Services` — внешние интеграции (если понадобится)
 
